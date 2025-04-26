@@ -1,7 +1,16 @@
+
+// const Homepage = () => {
+//   return (
+//     <div className=''>Homepage</div>
+//   )
+// }
+
+// export default Homepage
+
 const Homepage = () => {
   return (
-    <div className=''>Homepage</div>
+    <link rel="icon" href="/EduSpectrum.webp" />
   )
 }
-
 export default Homepage
+
